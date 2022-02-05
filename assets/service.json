@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "small-talk-fmrm",
+  "private_key_id": "603b7a7c9859ec294d149a623221ac8b638927e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqFxBNN237H6qV\nGD/PnmSpZ6Wz03L+NPwxdYwZ/jL7nQAECdsV7gqhf/UffTDq+oF8D/OHQUxT1AGB\nFmgjyBM3yGe4DTzcLG+suBpf9twgXz3XbzxpYNShWp0/wOWn7sbkIJZSaknWp7lW\nwTmDAyAojCwL6lTEChtTBdcsrwL6VKTQokcWBsIxflFypkpvV8xp0qK1bJb6D7X5\noRZT+YZ88Wcg90J/9OQvzJLB4u8beItHbc6dSYQbXco/xKCUz/EpOuApNw3wNdqy\naQEv+Cg6I5t+dUi7HadyAngCNeI52PeeFoJKBF5T2w36wQSEMP8PaFOCrtceLUWM\nJdrL0p6jAgMBAAECggEATtFLM4zpAQKGiHppL2tll/64kWD9m4CwELc4yd66f1Ac\nbsKmbD4XXQkvbH0Vyv10PSojHl0K4pmObOQWM+aFyUarkWVI+3n38eCKEEgTb0jT\nHl6kbux4+6BC2AUqJqyGK7ZSEjTArKCiSOpXHTe4kjGKQ6c9ym4ohUtij4k15wvK\nrB68Db+2UP8Buf30zR+6apSIk7tvaMw7XTUBBV417VJn6GZT/0eGwkLiMv6M/8VX\nEy5AYEjCto0ZkzeeKY0FTNlNJaYocsSlMc+plT59t9VQEu9X4NhpcWEjENFP6Iuz\nHOpY4+KLmhOqbVLTv5/CG6buK6ClOlVva1nMwmn8aQKBgQDXLpy9ilDNSxk+3r0O\nI30LvIjGgpvo2PHbChPTUk2qPnXj5CLMaCDAIA4ODShymEKKAiyAtVg40OqqP2RO\nM6zSFkK2dTPLyqnPeXRYU45PPEVTYr5Qmar2gz/uvy/ctjE9wNGVnxfvhCKB85kD\nPnatcqmoolYWbtF5uwsKlqyarQKBgQDKWsEC3p5LR/LLThuau6Tfy+wasZSCF0YY\n1Lm+Ol4AaUTAcEHZeThtljESzBKAGdIUyglCYvjdK/PrqLtIblhL/y4P5oMeVGgb\nypQ/E/95ZY+mk8ZSO8vxG/0POeZCzIy2PioG8OCnDHzrehnPD8PuTJQZaN3MjdqD\nQZaPQ4gYjwKBgCJ4Av+RonPgLcEWaO5U3Pj+UGKMFXFtHwDZUmetbWdx7ex9ZN2d\naHGeMOIrVWlV3oLA6mQLqIAhZxWyZdzpBiv5COK1T4C7jAwCBpMHf2pN20UKMjYz\nB2HJkHosAfy26phbxLbU7z6cyfJLFR2h6dzK20Z6CpQ5WDDJt3EQxcFZAoGBAMHs\nE0iCu8R9YQrBAedZqHno3Y3/XMkHMOAfDRpmqStPttmNOy4E47Tx2HmhJKGrHQ9b\nR2BdpQ2gT5QqEcEqLmg2VphaWpG4ZkUr8MI6kfxu/imvOMIaGCoqnmv3GtotWTRV\ngsVAFqtAZn7sdste2nAG528qdlTQJPbg5j7JgyW1AoGAJILgztlHhpMwne8vgHQg\nphUe0tWUjQNgRdyxgx56H/tr76vt3ni/2Hmh8w9JeXvcp4765f0tg6ys5kaxQQJX\nQ1xdcLj3D+pn8OHNJA+9XrLm4FJDszWoVGHQIRUXakdRh998qdlCMhSNlSYgOWEp\ngWHpsTL3o70Qg5dhR3FtT2Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow@small-talk-fmrm.iam.gserviceaccount.com",
+  "client_id": "105018364644995741120",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow%40small-talk-fmrm.iam.gserviceaccount.com"
+}
